@@ -1,0 +1,4 @@
+interface:
+  display_name: "面包的小红书运营助手"
+  short_description: "带账号记忆，保留面包文风，继续选题、逐图改稿和内容复盘"
+  default_prompt: "使用 $mianbao-xiaohongshu，读取我的账号记忆和最新进度，接着讨论下一篇小红书。"
