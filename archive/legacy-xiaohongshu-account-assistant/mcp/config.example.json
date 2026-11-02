@@ -1,0 +1,23 @@
+{
+  "name": "xiaohongshu-account-assistant",
+  "repository": {
+    "provider": "github",
+    "owner": "YOUR_GITHUB_USERNAME",
+    "repo": "xiaohongshu-account",
+    "branch": "main",
+    "private": true
+  },
+  "paths": {
+    "account_memory": "memory/account-memory.md",
+    "content_strategy": "memory/content-strategy.md",
+    "brand_safety": "memory/brand-safety.md",
+    "current_phase": "memory/current-phase.md",
+    "weekly_plan": "operations/weekly-planning-template.md",
+    "experiment_log": "operations/experiment-log.md"
+  },
+  "permissions": {
+    "read": true,
+    "propose_updates": true,
+    "write": false
+  }
+}
