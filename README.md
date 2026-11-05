@@ -2,6 +2,12 @@
 
 「cos面包大人」的小红书运营资料与带记忆 Skill。私有仓库，包含个人经历、偏好、文风、对标分析和作品进度。
 
+## 最新内容：2026-11-05
+
+- [大阪原稿、修改版本与反馈](skills/mianbao-xiaohongshu/references/osaka-post.md)：保留用户原稿，标明首次扩写被否定、后续稿待确认。
+- [选题池与新旧交替发布讨论](skills/mianbao-xiaohongshu/references/content-plan.md)：近期素材已确认存在；交替发布和示例顺序仍是建议。
+- 本次同时更新账号偏好、进度、共识记录，以及跨平台Markdown与技能压缩包；此前历史资料保留。
+
 ## 从这里开始
 
 当前使用的技能入口是 [面包的小红书运营助手](skills/mianbao-xiaohongshu/SKILL.md)。先读 [账号与偏好](skills/mianbao-xiaohongshu/memory/profile.md) 和 [最新进度](skills/mianbao-xiaohongshu/memory/current.md)，再按任务读相关案例与参考。
@@ -38,4 +44,4 @@ python3 skills/mianbao-xiaohongshu/scripts/export_portable.py --output-dir expor
 
 日期使用用户当天日期。导出不会核验发布状态，也不会修改既有事实。归档的MCP文件是接口和配置草案，没有部署远程服务或配置访问凭据。
 
-本次归档：2026-11-02。回归篇是否实际发布仍以用户后续确认或可核验结果为准。
+首次归档：2026-11-02；内容更新至：2026-11-05。回归篇与大阪篇是否实际发布仍以用户后续确认或可核验结果为准。请求保存讨论不等于采纳全部建议。
