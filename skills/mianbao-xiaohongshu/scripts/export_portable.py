@@ -16,6 +16,8 @@ TEXT_ORDER = (
     'memory/decisions.md',
     'references/voice.md',
     'references/return-post.md',
+    'references/osaka-post.md',
+    'references/content-plan.md',
     'references/creators.md',
     'references/continuity.md',
 )
