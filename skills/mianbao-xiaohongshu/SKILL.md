@@ -15,7 +15,9 @@ description: 带记忆地协作运营「cos面包大人」小红书账号：延�
 
 - 涉及旧建议、方向冲突、改格式：读 [共识与修正](memory/decisions.md)。
 - 写稿、逐图审稿、标题、用户说「像我一点」：读 [文风与编辑方法](references/voice.md)。
-- 继续九图回归篇或大阪、深圳后续：读 [回归篇成稿案例](references/return-post.md)。
+- 继续九图回归篇或深圳后续：读 [回归篇成稿案例](references/return-post.md)。
+- 继续大阪文案、扩写或回顾修改反馈：读 [大阪原稿与修改记录](references/osaka-post.md)，区分用户原稿、被否定稿和待采纳稿。
+- 回顾选题、讨论按时间线还是新旧交替：读 [选题与发布顺序讨论](references/content-plan.md)，其中交替发布仍为建议。
 - 研究九位博主或账号方向：读 [对标与策略](references/creators.md)。这里是历史分析，不能当作本次已访问博主主页的证据。
 - 设备、iCloud、跨平台、GitHub/MCP、语雀：读 [工具与迁移背景](references/continuity.md)。
 
